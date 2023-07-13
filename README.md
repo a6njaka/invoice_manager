@@ -1,2 +1,2 @@
 # invoice_manager
- Create ad manage Invoice
+ Create and manage Invoice
